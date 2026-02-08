@@ -1,7 +1,7 @@
 #!/usr/bin/env bash 
 
 VAULT_DIR="$HOME/secure_vault"
-REPORT="$VAULT_DIR/vault_report.txt
+REPORT="$VAULT_DIR/vault_report.txt"
 
 > "$REPORT"
 
